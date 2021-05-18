@@ -1,6 +1,6 @@
 # dolaNow
 
-A new Flutter project.
+See screenshot of the app. Enjoy
 
 ## Getting Started
 
