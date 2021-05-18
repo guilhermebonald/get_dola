@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "1089767351040",
+    "firebase_url": "https://dolaadmob.firebaseio.com",
+    "project_id": "dolaadmob",
+    "storage_bucket": "dolaadmob.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089767351040:android:74f0979280c3877ac209e5",
+        "android_client_info": {
+          "package_name": "br.com.bonald.dola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089767351040-p0cdrvjmh4tjk34d33c4g18u7v66i608.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhLOo0oFK5WRsmRhDnLM4fs52vUVfIsuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089767351040-p0cdrvjmh4tjk34d33c4g18u7v66i608.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3098219905982691~8994159780"
+    }
+  ],
+  "configuration_version": "1"
+}
